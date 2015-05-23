@@ -1,0 +1,3 @@
+automatic generation of (build) dependencies
+setup QGLViewer variables for CMake build process
+later separate package for QGLViewer

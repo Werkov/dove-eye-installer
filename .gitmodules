@@ -1,0 +1,3 @@
+[submodule "debian/dove-eye"]
+	path = debian/dove-eye
+	url = git@github.com:Werkov/dove-eye.git
