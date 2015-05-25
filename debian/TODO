@@ -1,3 +1,4 @@
 - built binary segfaults
 - tweak build option so that optimized version is build
 - uploaded to PPA but no response (neither upload utility, web, nor e-mail)
+- add copyright and license
